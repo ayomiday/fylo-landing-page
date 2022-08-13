@@ -1,0 +1,184 @@
+
+.body {
+    background-color: silver;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+   
+}
+
+.main {
+    background-color: white;
+    margin: 30px;
+    padding: 50px; 
+    width: 800px;
+}
+
+.fylo {
+    display: flex;
+    flex-direction: column; 
+}
+
+.fyloheading {
+    display: inline;
+}
+
+.fts {
+    display: inline-block;
+    text-align: right;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+}
+
+.mcontent {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+
+.p1 {
+    margin-top: 0px;
+    margin-bottom: 5px;
+    font-size: 25px;
+}
+
+.p2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.form {
+    margin-top: 15px;
+    color: blue;
+}
+
+.content2 {
+    background-color: rgba(252, 249, 249, 0.884);
+    display: flex;
+    flex-direction: row;
+}
+
+.c2h {
+    display: flex;
+    flex-direction: column;
+}
+
+.pp1 {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-size: 25px;
+}
+
+.pp2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: small;
+}
+
+.img2 img {
+    background-color: aliceblue;
+}
+
+.comment {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    margin: 25px 85px 25px 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.note {
+    
+}
+
+.cheader {
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+    vertical-align: center;
+}
+
+.pic {
+    width: 45px;
+    height: 45px;
+    margin-right: 10px;
+    display: inline;
+    vertical-align: center;
+    align-items: left;
+
+}
+
+.pic img  {
+    display: inline;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.np {
+    display: inline;
+    height: 45px;
+}
+
+.namen {
+    margin-bottom: 5PX;
+}
+
+.position {
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.reg {
+    background-color: rgb(136, 49, 218);
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    height: auto;
+}
+
+.regcontent {
+    display: inline;
+    color: white;
+}
+
+.intro {
+    display: inline-block;
+}
+
+.early  {
+    width: 400px;
+    display: inline-block;
+}
+
+.form2 {
+    display: inline-block;
+    margin-top: 0px;
+    justify-content: flex-end;
+}
+
+.info {
+    background-color: rgb(7, 7, 58);
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content: space-around;
+    padding: 15PX;
+}
+
+.logos {
+    display: inline;
+    border-radius: 100px;
+    height: 5px;
+}
+
+.logos img {
+    display: inline;
+    height: 30px;
+    width: 30px;
+}
